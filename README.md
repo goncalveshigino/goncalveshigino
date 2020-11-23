@@ -1,10 +1,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goncalveshigino)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalveshigino&layout=compact&theme=material-palenight" alt="Goncalves" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalveshigino&layout=compact&theme=material-palenight" alt="Gonçalves" />
 
 
 ### Contact
-[Twitter](https://twitter.com/eliezerantonio_)<br>
-[Email](eliezerfernandoantonio@gmail.com)<br>
+[Twitter](https://twitter.com/GonzaLuiz9)<br>
+[Email](goncalveshigino20@gmail.com)<br>
 #### I work with  <br>
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
