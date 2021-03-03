@@ -12,12 +12,12 @@
   <code><img title="Flutter" height="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+  <code><img title="REACT" height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+    <code><img title="ANGULAR" height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+  <code><img title="VUE.JS" height="25" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
   <code><img title="NODE" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></code>
   
 </p>
