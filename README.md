@@ -1,12 +1,16 @@
+<p align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goncalveshigino&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalveshigino&layout=compact&theme=monokai" alt="Gonçalves" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalveshigino&layout=compact&theme=monokai" alt="Gonçalves" />
+
+</p>
+
 
 
 ### Contact
 [Twitter](https://twitter.com/GonzaLuiz9)<br>
 [Email](goncalveshigino20@gmail.com)<br>
-<h2 align="center">Languages & Frameworks</h2>
 
+<h2 align="center">Languages & Frameworks</h2>
 <p align="center">
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
