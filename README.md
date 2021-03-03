@@ -1,14 +1,10 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=goncalveshigino&theme=monokai" alt="Adilson" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=goncalveshigino&theme=maroongold" alt="Gonçalves Higino" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalveshigino&layout=compact&theme=monokai" alt="Adilson Chameia" />
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalveshigino&layout=compact&theme=maroongold" alt="Gonçalves Higino" />
 </p> 
-
-### Contact
-[Twitter](https://twitter.com/GonzaLuiz9)<br>
-[Email](goncalveshigino20@gmail.com)<br>
 
 <h2 align="center">Languages & Frameworks</h2>
 <p align="center">
@@ -25,3 +21,7 @@
   <code><img title="NODE" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></code>
   
 </p>
+
+### Contact
+[Twitter](https://twitter.com/GonzaLuiz9)<br>
+[Email](goncalveshigino20@gmail.com)<br>
