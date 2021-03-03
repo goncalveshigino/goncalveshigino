@@ -22,6 +22,3 @@
   
 </p>
 
-### Contact
-[Twitter](https://twitter.com/GonzaLuiz9)<br>
-[Email](goncalveshigino20@gmail.com)<br>
