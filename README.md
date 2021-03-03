@@ -1,5 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goncalveshigino)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalveshigino&layout=compact&theme=material-palenight" alt="Gonçalves" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalveshigino&layout=compact&theme=monokai" alt="Gonçalves" />
 
 
 ### Contact
