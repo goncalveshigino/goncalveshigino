@@ -14,7 +14,6 @@
   <code><img title="GitHub" height="25" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
   <code><img title="REACT" height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
   <code><img title="ANGULAR" height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
   <code><img title="VUE.JS" height="25" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
