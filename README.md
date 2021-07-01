@@ -15,7 +15,7 @@
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
   <code><img title="ANGULAR" height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
-  <code><img title="TypeScript" height="25" src="https://www.vectorlogo.zone/logos/typescript/typescript-icon.svg"></code>
+  <code><img title="Vue.Js" height="25" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
   <code><img title="NODE" height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></code>
   
 </p>
