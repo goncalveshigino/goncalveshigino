@@ -13,7 +13,7 @@
   <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="GitHub" height="25" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://w7.pngwing.com/pngs/59/97/png-transparent-green-leaf-mongodb-inc-computer-software-business-software-developer-bay-leaves-leaf-company-people.png"></code>
+  <code><img title="MongoDB" height="25" src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business.png"></code>
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
   <code><img title="ANGULAR" height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
   <code><img title="TypeScript" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekGM6fcOFGBHtDlXbY_wu-NRcdp506OwyOPKmc32RxgtFcpjT2v6DaI8YNOZnLcCYoVA&usqp=CAU"></code>
