@@ -14,8 +14,6 @@
   <code><img title="Angular" height="25" width="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
   <code><img title="Javascript" height="25" width="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
   <code><img title="TypeScript" height="25" width="25" src="https://vetores.org/wp-content/uploads/typescript.png"></code>
-
-
   <code><img title="Nodejs" height="25" width="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></code>
    
 </p>
