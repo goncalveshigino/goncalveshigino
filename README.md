@@ -14,7 +14,7 @@
   <code><img title="GitHub" height="25" width="25" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>
   <code><img title="MySQL" height="25" width="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
   <code><img title="MongoDB" height="25" width="25" src="https://www.clipartmax.com/png/small/114-1147615_mongodb-leaf-open-source-nosql-database-startups-mongodb-logo.png"></code>
-  <code><img title="Nestjs" height="25" width="25" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+  <code><img title="Nestjs" height="25" width="25" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
   <code><img title="Angular" height="25" width="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
   <code><img title="TypeScript" height="25" width="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekGM6fcOFGBHtDlXbY_wu-NRcdp506OwyOPKmc32RxgtFcpjT2v6DaI8YNOZnLcCYoVA&usqp=CAU"></code>
   <code><img title="Nodejs" height="25" width="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></code>
