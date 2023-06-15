@@ -14,7 +14,8 @@
   <img title="Angular" height="25" width="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
   <img title="Javascript" height="25" width="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"/>
   <img title="TypeScript" height="25" width="25" src="https://vetores.org/wp-content/uploads/typescript.png"/>
-  <img title="Nodejs" height="25" width="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"/>
+  <img title="NodeJs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="40" height="40"/>
+ <img  title="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60" height="40"/>
    
 </p>
 
