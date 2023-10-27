@@ -10,8 +10,8 @@
 <p align="center">
  
   <img title="Flutter" height="25" width="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-  <img title="Dart" height="25" width="25" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/>
-  <img title="Swift" height="25" width="25" src="[https://www.vectorlogo.zone/logos/angular/angular-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1280px-Swift_logo.svg.png)"/>
+  <img title="Dart" height="25" width="25" src="https://www.vectorlogo.zone/logos/dart/dart-icon.svg"/>
+  <img title="Swift" height="25" width="25" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
 
 
    
