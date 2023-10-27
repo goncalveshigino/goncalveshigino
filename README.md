@@ -8,12 +8,7 @@
 
 
 <p align="center">
- 
   <img title="Flutter" height="25" width="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-  <img title="Dart" height="25" width="25" src="https://www.vectorlogo.zone/logos/dart/dart-icon.svg"/>
   <img title="Swift" height="25" width="25" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
-
-
-   
 </p>
 
