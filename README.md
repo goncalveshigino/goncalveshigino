@@ -9,6 +9,6 @@
 
 <p align="center">
   <img title="Flutter" height="25" width="25" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-  <img title="Firebase" height="25" width="25" src="https://www.vectorlogo.zone/logos/firebase-icon.svg"/>
+  <img title="Firebase" height="25" width="25" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
   <img title="Swift" height="25" width="25" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
 </p>
