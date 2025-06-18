@@ -12,5 +12,7 @@
   <img title="Flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
   <img title="Firebase" height="40" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
   <img title="Swift" height="40" width="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
+   <img title="Jetpack Compose" height="40" width="40" src="https://www.vectorlogo.zone/logos/jetpackcompose
+/jetpackcompose-original.svg"/>
   <img title="React" height="40" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
 </p>
